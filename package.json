@@ -1,0 +1,23 @@
+{
+  "name": "express_m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhnhim/express_m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhnhim/express_m/issues"
+  },
+  "homepage": "https://github.com/minhnhim/express_m#readme",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1"
+  }
+}
